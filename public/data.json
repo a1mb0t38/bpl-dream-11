@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "rating": 95,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "type": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Steve Smith",
+    "country": "Australia",
+    "type": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "rating": 89,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Hardik Pandya",
+    "country": "India",
+    "type": "All-rounder",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Mitchell Marsh",
+    "country": "Australia",
+    "type": "All-rounder",
+    "rating": 86,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Jason Holder",
+    "country": "West Indies",
+    "type": "All-rounder",
+    "rating": 85,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "rating": 94,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "type": "Bowler",
+    "rating": 91,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "type": "Bowler",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "type": "Bowler",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "type": "Bowler",
+    "rating": 91,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+
+  {
+    "name": "Jos Buttler",
+    "country": "England",
+    "type": "Wicketkeeper",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Rishabh Pant",
+    "country": "India",
+    "type": "Wicketkeeper",
+    "rating": 87,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "type": "Wicketkeeper",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "type": "Wicketkeeper",
+    "rating": 86,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Tom Latham",
+    "country": "New Zealand",
+    "type": "Wicketkeeper",
+    "rating": 84,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+
+
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "type": "Batsman",
+    "rating": 89,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Rohit Sharma",
+    "country": "India",
+    "type": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Fakhar Zaman",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "rating": 85,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "type": "Batsman",
+    "rating": 84,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "type": "Wicketkeeper",
+    "rating": 85,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "image": "https://i.ibb.co.com/d4H2KFjy/shane-warn.jpg"
+  }
+]
