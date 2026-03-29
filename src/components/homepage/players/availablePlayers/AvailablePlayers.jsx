@@ -2,15 +2,15 @@ import React from 'react';
 import { FaFlag, FaUser } from "react-icons/fa";
 
 const AvailablePlayers = ({ players }) => {
-    console.log(players);
+    // console.log(players);
     return (
 
         <div>
 
             <div className='grid grid-cols-1 md:grid-cols-3 gap-4'>
                 {
-                players.map((player) => {
-                    return <div className="card bg-base-100 shadow-sm">
+                players.map((player,index) => { 
+                    return <div key={index} className="card bg-base-100 shadow-sm">
                 <figure>
                     <img className='rounded-2xl w-full'
                         src={player.image}
