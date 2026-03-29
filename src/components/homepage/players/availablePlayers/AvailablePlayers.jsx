@@ -2,7 +2,7 @@ import React from 'react';
 
 import Cards from '../../../ul/Cards';
 
-const AvailablePlayers = ({ players, setCoin, coin }) => {
+const AvailablePlayers = ({ players, setCoin, coin, setSelectedPlayers, selectedPlayers }) => {
     // console.log(players);
     return (
 
@@ -11,7 +11,7 @@ const AvailablePlayers = ({ players, setCoin, coin }) => {
             <div className='grid grid-cols-1 md:grid-cols-3 gap-4'>
                 {
                 players.map((player,index) => { 
-                    return <Cards key={index} player={player} setCoin={setCoin} coin={coin}></Cards>
+                    return <Cards key={index} player={player} setCoin={setCoin} coin={coin}  setSelectedPlayers={setSelectedPlayers} selectedPlayers={selectedPlayers}></Cards>
                 })
             }
             </div>
